@@ -21,4 +21,3 @@ for x in range(0,t):
     #print(resodd)
 
     print(reseven,resodd)
-
